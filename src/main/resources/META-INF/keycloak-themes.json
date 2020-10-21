@@ -1,0 +1,6 @@
+{
+  "themes": [{
+    "name" : "v2",
+    "types": [ "admin" ]
+  }]
+}
