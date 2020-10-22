@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.raitonbl</groupId>
-    <artifactId>keycloak.theme.v2</artifactId>
+    <artifactId>keycloak.theme.r2</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0-RELEASE</version>
 
-    <name>com.raitonbl.keycloak.theme.v2</name>
+    <name>com.raitonbl.keycloak.theme.r2</name>
     <url>https://github.com/Delfimarime/keycloak</url>
 
     <organization>
@@ -46,7 +46,7 @@
     </properties>
 
     <build>
-        <finalName>com.raitonbl.keycloak.theme.v2</finalName>
+        <finalName>com.raitonbl.keycloak.theme.r2</finalName>
     </build>
 
 </project>
